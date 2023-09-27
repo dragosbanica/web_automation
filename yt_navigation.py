@@ -38,7 +38,7 @@ try:
 except:
     driver.quit()
 
-#import screen_recorder
-#import audio_recorder
+#import screen_record
+#import audio_record
 
 #driver.quit()
